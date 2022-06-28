@@ -1,0 +1,24 @@
+# enable line number
+set linenumbers
+
+# enable mouse
+set mouse
+
+# enable smoth scrowiling
+set smooth
+
+# enable auto indentation
+#set autoindent
+
+# tabe size to 4
+set tabsize 4
+
+# convert tab to space 
+set tabstospaces
+
+# titel color 
+set titlecolor  brightwhite,blue
+
+# number color 
+set numbercolor brightwhite,cyan
+
