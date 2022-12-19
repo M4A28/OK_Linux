@@ -1,0 +1,5 @@
+set from="ttttt@gmail.com"
+set realname="test"
+set smtp_url="smtp://ttttttt@smtp.gmail.com:587/"
+set smtp_pass="ttttttt"
+
